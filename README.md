@@ -3,8 +3,7 @@
 - November 3-4, 2016
 - Facilitators:
   - Briana Swift (@brianamarie)
-  - Steve Winton (@swinton)
-
+  
 ## Resources
 
 - [git-scm](https://git-scm.com)
